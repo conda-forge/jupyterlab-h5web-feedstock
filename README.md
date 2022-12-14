@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@srmnitc](https://github.com/srmnitc/)
+* [@t20100](https://github.com/t20100/)
 
