@@ -1,5 +1,5 @@
 {% set name = "jupyterlab-h5web" %}
-{% set version = "7.0.0" %}
+{% set version = "7.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/jupyterlab_h5web-{{ version }}.tar.gz
-  sha256: 23e4145fcc2bd17f4ca5be9247977c23b4da24fc7030bc85883bdda1a2c10072
+  sha256: 95854e3a4b6b56855189c91776c4d71cf78c8256325f2a002ca3679d930f4417
 
 build:
   number: 0
