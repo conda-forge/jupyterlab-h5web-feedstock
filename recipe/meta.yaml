@@ -21,7 +21,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - h5grove =1.2.0
+    - h5grove
     - jupyter_server >=1.6,<2
     - python >=3.6
     - ipython
