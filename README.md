@@ -1,11 +1,11 @@
-About jupyterlab-h5web
-======================
+About jupyterlab-h5web-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-h5web-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/silx-kit/jupyterlab-h5web
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-h5web-feedstock/blob/main/LICENSE.txt)
 
 Summary: A JupyterLab extension to explore and visualize HDF5 file contents.
 
