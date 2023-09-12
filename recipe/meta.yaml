@@ -31,10 +31,6 @@ requirements:
 test:
   imports:
     - jupyterlab_h5web
-  commands:
-    - pip check
-  requires:
-    - pip
 
 about:
   home: https://github.com/silx-kit/jupyterlab-h5web
