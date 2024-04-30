@@ -1,5 +1,5 @@
 {% set name = "jupyterlab-h5web" %}
-{% set version = "8.0.0" %}
+{% set version = "12.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/jupyterlab_h5web-{{ version }}.tar.gz
-  sha256: a713ff7e10ce69f9f51bc158330829f2196220e2755ae8a720def37ce1db4841
+  sha256: 7e48112b1fad0a34519f1f25922ac7b2817a72415ef70564acc80eaf0daebd5c
 
 build:
   number: 1
@@ -22,7 +22,7 @@ requirements:
     - pip
     - python >=3.7
   run:
-    - h5grove =1.3.0
+    - h5grove =2.1.0
     - h5py >=3.5
     - jupyter_server >=1.6,<3
     - python >=3.7
